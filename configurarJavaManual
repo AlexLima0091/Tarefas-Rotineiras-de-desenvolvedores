@@ -1,0 +1,56 @@
+#!/bin/bash
+update-alternatives --config appletviewer
+update-alternatives --config idlj
+update-alternatives --config jaotc
+update-alternatives --config jarsigner
+update-alternatives --config java
+update-alternatives --config jar
+update-alternatives --config javac
+update-alternatives --config javadoc
+update-alternatives --config jdb
+update-alternatives --config jlink
+update-alternatives --config jstack
+update-alternatives --config rmic
+update-alternatives --config unpack2
+update-alternatives --config javap
+update-alternatives --config jdeprscan
+update-alternatives --config jmap
+update-alternatives --config jstatd
+update-alternatives --config jstatd
+update-alternatives --config jmc
+update-alternatives --config wsgen
+update-alternatives --config jdeps
+update-alternatives --config javapackager
+update-alternatives --config rmiregistry
+update-alternatives --config wsimport
+update-alternatives --config javaws
+update-alternatives --config jweblauncher
+update-alternatives --config jhsdb
+update-alternatives --config schemagen
+update-alternatives --config jmod
+update-alternatives --config jcmd
+update-alternatives --config jimage
+update-alternatives --config jps
+update-alternatives --config jconsole
+update-alternatives --config jinfo
+update-alternatives --config xjc
+update-alternatives --config serialver
+update-alternatives --config keytool
+update-alternatives --config jrunscript
+update-alternatives --config orbd
+update-alternatives --config pack2
+update-alternatives --config jshell
+update-alternatives --config jcontrol
+update-alternatives --config tnameserv
+update-alternatives --config jjs
+update-alternatives --config rmid
+update-alternatives --config servertool
+update-alternatives --config libnpjp2.so
+echo sucesso!
+#sudo update-alternatives --install /usr/lib64/browser-plugins/libjavaplugin.so javaplugin //usr/lib/jvm/java-11-openjdk-amd64/lib/amd64/libnpjp2.so 3
+
+
+
+
+
+
